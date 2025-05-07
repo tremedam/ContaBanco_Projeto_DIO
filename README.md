@@ -1,4 +1,4 @@
-# ContaBanco - Desafio de Projeto DIO
+# Conta de Banco - Desafio de Projeto DIO
 
 Este é um projeto proposto na **trilha de Java Básico** da [Digital Innovation One (DIO)](https://www.dio.me), desenvolvido com base nos conceitos iniciais da linguagem Java.
 
